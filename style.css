@@ -1,0 +1,103 @@
+body {
+	font-family: 'Rubik', sans-serif;
+	width: 960px;
+}
+
+#logo {
+	float: left;
+	margin-left: 35px;
+}
+
+#nav {
+	float: right;
+}
+
+#nav ul {
+	list-style-type: none;
+}
+
+#nav li {
+	display: inline;
+	padding-left: 20px;
+}
+
+hr {
+	clear: both;
+}
+
+.work {
+	height: 242px;
+	width: 242px;
+	background-color: #ce3300;
+	border: 1px solid rgb(191, 73, 39);
+}
+
+.work:hover {
+	box-shadow: 3px 3px 3px gray;
+}
+
+footer {
+	padding-bottom: 30px;
+	height: 177px;
+}
+
+#copyright {
+	float: right;
+}
+
+.nav {
+	float: left;
+	margin-left: 35px;
+	margin-bottom: 20px;
+}
+
+.top {
+	margin-bottom: 69.3px;
+	margin-top: 43.5px;
+}
+
+.bottom {
+	margin-bottom: 43.5px;
+}
+
+.column1of3 {
+	margin-left: 35px;
+	margin-right: 85.3px;
+	display: inline-block;
+	width: 242px;
+}
+
+.column2of3 {
+	margin-right: 85.3px;
+	display: inline-block;
+	width: 242px;
+}
+
+.column3of3 {
+	display: inline-block;
+	width: 242px;
+}
+
+h1, h2, h3, h4, h5, h6 #aboutcontact {
+	margin-bottom: -13px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: rgb(191, 73, 39);
+}
+
+.seeking {
+	vertical-align: top;
+}
+
+.contact {
+	vertical-align: top;
+}
+
+#aboutcontact {
+	font-size: 14px;
+}
